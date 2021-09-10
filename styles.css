@@ -1,0 +1,54 @@
+
+#header-1{
+    color: red;
+    font-size: 4em;
+    text-align: center;
+    text-transform: uppercase;
+ 
+}
+
+.border-blue{
+    border: 7px solid blue;
+    background-color: rgb(245, 231, 108);
+    
+}
+
+#navigation-bar {
+    float: left;
+    list-style-type: none;
+  
+}
+  
+body{
+    background-color: rgb(247, 245, 245);
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+
+}
+
+aside{
+    font: bold 32px Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    
+
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+ol{
+    font-size: 20px;
+    line-height: 2; 
+    list-style-type: none;
+   
+}
+
+h3{
+    width: 200px;
+    padding: 5px;
+ 
+}
